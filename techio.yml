@@ -2,6 +2,12 @@ title: Les fichiers
 plan:
 - title: Introduction
   statement: markdowns/introduction.md
+- title: Exercice xx
+  statement: markdowns/exDEA1.md
+- title: Exercice xx
+  statement: markdowns/exDEA2.md
+- title: Exercice xx
+  statement: markdowns/exDEA3.md
 projects:
   tassement:
     root: /tassement
