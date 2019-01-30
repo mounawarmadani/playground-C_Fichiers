@@ -11,4 +11,4 @@ struct complex
 ```
 **NOTE** : il ne faut pas modifier les lignes de saisie et d'affichage.
 
-@[Lecture d'une struct au départ dans un fichier]({"stubs": ["lecture.c"],"command": "sh /project/target/run.sh lecture","project": "lecture"})
+@[Lecture d'une struct provenant d'un fichier]({"stubs": ["lecture.c"],"command": "sh /project/target/run.sh lecture","project": "lecture"})
