@@ -2,15 +2,24 @@ title: Les fichiers
 plan:
 - title: Introduction
   statement: markdowns/introduction.md
-- title: Exercice xx
+- title: Exercice 1 
+  statement: markdowns/ex1_lecture.md
+- title: Exercice 2
+  statement: markdowns/ex2_ecriture.md
+- title: Exercice xx 	
   statement: markdowns/exDEA1.md
 - title: Exercice xx
   statement: markdowns/exDEA2.md
 - title: Exercice xx
   statement: markdowns/exDEA3.md
 projects:
-  tassement:
-    root: /tassement
+  lecture:
+    root: /lecture
+    runner:
+      name: techio/cmake-gcc-runner
+      version: latest
+  ecriture:
+    root: /ecriture
     runner:
       name: techio/cmake-gcc-runner
       version: latest
