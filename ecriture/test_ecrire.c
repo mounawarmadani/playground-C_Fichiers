@@ -28,7 +28,7 @@ int main(void) {
         printf("TECHIO> message --channel \"TEST ERREUR\" 'Error function fail test '\n");
     }
 
-	fp=fopen("test_write.txt","rb");
+	fp=fopen("test_write.cpx","rb");
 	if(fp==NULL)
 	{
 		ok = ok && 0;
