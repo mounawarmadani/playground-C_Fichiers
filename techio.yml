@@ -12,8 +12,8 @@ plan:
   statement: markdowns/ex4_ajout.md  
 - title: Exercice 5
   statement: markdowns/ex5_nbrstruct.md
-- title: Exercice 6
-  statement: markdowns/ex6_load.md  
+#- title: Exercice 6
+#  statement: markdowns/ex6_load.md  
 - title: Exercice xx 	
   statement: markdowns/exDEA1.md
 - title: Exercice xx
