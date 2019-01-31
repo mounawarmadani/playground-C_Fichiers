@@ -6,6 +6,8 @@ plan:
   statement: markdowns/ex1_lecture.md
 - title: Exercice 2
   statement: markdowns/ex2_ecriture.md
+- title: Exercice 3
+  statement: markdowns/ex3_taille.md
 - title: Exercice xx 	
   statement: markdowns/exDEA1.md
 - title: Exercice xx
@@ -20,6 +22,11 @@ projects:
       version: latest
   ecriture:
     root: /ecriture
+    runner:
+      name: techio/cmake-gcc-runner
+      version: latest
+  taille:
+    root: /taille
     runner:
       name: techio/cmake-gcc-runner
       version: latest
