@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "taille.h"
+#include "nbrstruct.h"
 
 
 
