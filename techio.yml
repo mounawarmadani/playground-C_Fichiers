@@ -8,6 +8,8 @@ plan:
   statement: markdowns/ex2_ecriture.md
 - title: Exercice 3
   statement: markdowns/ex3_taille.md
+- title: Exercice 4
+  statement: markdowns/ex4_nbrstruct.md
 - title: Exercice xx 	
   statement: markdowns/exDEA1.md
 - title: Exercice xx
@@ -27,6 +29,11 @@ projects:
       version: latest
   taille:
     root: /taille
+    runner:
+      name: techio/cmake-gcc-runner
+      version: latest
+  nbrstruct:
+    root: /nbrstruct
     runner:
       name: techio/cmake-gcc-runner
       version: latest
