@@ -9,9 +9,11 @@ plan:
 - title: Exercice 3
   statement: markdowns/ex3_taille.md
 - title: Exercice 4
-  statement: markdowns/ex4_ajout.md
+  statement: markdowns/ex4_ajout.md  
 - title: Exercice 5
   statement: markdowns/ex5_nbrstruct.md
+- title: Exercice 6
+  statement: markdowns/ex6_load.md  
 - title: Exercice xx 	
   statement: markdowns/exDEA1.md
 - title: Exercice xx
@@ -36,6 +38,11 @@ projects:
       version: latest
   nbrstruct:
     root: /nbrstruct
+    runner:
+      name: techio/cmake-gcc-runner
+      version: latest
+  load:
+    root: /load
     runner:
       name: techio/cmake-gcc-runner
       version: latest
