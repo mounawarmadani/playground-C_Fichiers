@@ -14,11 +14,11 @@ plan:
   statement: markdowns/ex5_nbrstruct.md
 #- title: Exercice 6
 #  statement: markdowns/ex6_load.md  
-- title: Exercice xx 	
+- title: Exercice 6
   statement: markdowns/exDEA1.md
-- title: Exercice xx
+- title: Exercice 7
   statement: markdowns/exDEA2.md
-- title: Exercice xx
+- title: Exercice 8
   statement: markdowns/exDEA3.md
 projects:
   lecture:
