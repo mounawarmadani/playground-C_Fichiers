@@ -1,6 +1,7 @@
 # Exercice 1
 
 Complétez le programme main pour lire une structure `struct complex` déjà enregistrée dans un fichier.
+La variable `n` est initialisée en récupérant la valeur de retour de la lecture.
 
 ```C
 struct complex
