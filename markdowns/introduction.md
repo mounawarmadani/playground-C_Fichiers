@@ -2,7 +2,7 @@
 
 Un fichier informatique est au sens commun, une collection, un ensemble de données numériques réunies sous un même nom, enregistrées sur un support de stockage permanent.
 
-Les principales fonctions permettant de manipuler les fichiers sont : 
+Les principales fonctions, que nous utiliserons dans ce cours, pour manipuler les fichiers sont : 
 - `fopen`
 - `fclose`
 - `fread`
