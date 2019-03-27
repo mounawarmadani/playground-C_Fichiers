@@ -17,7 +17,7 @@ int main() {
   // ecrire le code pour lire la structure ici
   // le nombre d'enregistrements lu suite à la lecture est récupéré dans la variable n
   
-  printf("n = %d s.real =  %f s.img  = %f\n",n,s.real,s.img);
+  printf("n = %d s.real = %f s.img = %f\n",n,s.real,s.img);
 
   return 0;
 }
